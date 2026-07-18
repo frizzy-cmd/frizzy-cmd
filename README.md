@@ -1,4 +1,4 @@
-# <img width="48" height="48" align="center" src="https://cdn.discordapp.com/emojis/365266816836173825.png?size=48"> Hello fellow individual!
+# <img width="48" height="48" align="center" src="https://cdn.discordapp.com/emojis/474389753190678528.webp?size=48"> Hello fellow individual!
 
 Hi there! You can call me `Kip`. I do a "little" bit of `Python`. A little. Maybe a overstatement.. I'm doing stuff like:
 - Creating stuff. Of course
