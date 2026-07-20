@@ -1,4 +1,4 @@
-# <img width="48" height="48" align="center" src="https://cdn.discordapp.com/emojis/474389753190678528.webp?size=48"> Hello fellow individual!
+# <img width="48" height="48" align="center" src="https://cdn.discordapp.com/emojis/1528790248996212967.webp?size=32"> Hello fellow individual!
 
 Hi there! You can call me `Kip`. I do a "little" bit of `Python`. A little. Maybe a overstatement.. I'm doing stuff like:
 - Creating stuff. Of course
@@ -6,6 +6,7 @@ Hi there! You can call me `Kip`. I do a "little" bit of `Python`. A little. Mayb
 - Making Discord bots
 - Making sites!
 - Reverse engineering applications, which is again, more of a side thing.
+- Modding games!
 
 Sometimes, projects I make are just for myself and I don't have the time or meaning to get it on GitHub. But most projects I make are for actual use, like check out [Kiphub!](https://github.com/frizzy-cmd/KiphubISOs) Don't let the name fool you. Just check it out.
 
@@ -28,5 +29,5 @@ But anyway, that's all I can say about myself on a technical aspect! I know some
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=frizzy-cmd&theme=one-dark&bg_color=282c34&hide_border=true" alt="frizzy-cmd's github activity graph" />
   <br /><br />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=frizzy-cmd&theme=one-dark&layout=compact" alt="Most Used Languages" title="Most used langs" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=frizzy-cmd&theme=one-dark&layout=compact&size_weight=0&count_weight=1" alt="Most used languages" title="Most used langs" />
 </p>
