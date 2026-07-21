@@ -29,5 +29,5 @@ But anyway, that's all I can say about myself on a technical aspect! I know some
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=frizzy-cmd&theme=one-dark&bg_color=282c34&hide_border=true" alt="frizzy-cmd's github activity graph" />
   <br /><br />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=frizzy-cmd&theme=one-dark&layout=compact&size_weight=0&count_weight=1" alt="Most used languages" title="Most used langs" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=frizzy-cmd&theme=one-dark&layout=compact&size_weight=1&count_weight=0" alt="Most used languages" title="Most used langs" />
 </p>
