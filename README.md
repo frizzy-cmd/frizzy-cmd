@@ -12,6 +12,10 @@ Sometimes, projects I make are just for myself and I don't have the time or mean
 
 But anyway, that's all I can say about myself on a technical aspect! I know some Assembly btw.
 
+- Developer of [Calamus Injector ](https://github.com/frizzy-cmd/calamusinjector) [A OneShot mod menu, for modders/experimentors, and more]
+- Developer of [Magpie Collector](https://github.com/frizzy-cmd/MagpieCollector) [A OneShot debugger]
+- Creator of [Alula Editor](https://kip.teaa.workers.dev/p-settings-generate) [A OneShot save file generator]
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=frizzy-cmd&color=blueviolet&style=flat-square)
 
 ## Dev & Tech stack
