@@ -1,4 +1,4 @@
-# <img width="48" height="48" align="center" src="https://cdn.discordapp.com/emojis/1533357014170865786.webp?size=32"> Hiya there!
+# <img width="48" height="48" align="center" src="https://cdn.discordapp.com/emojis/1530595687933149368.webp?size=96?size=32"> Hey there!
 
 Hi there! You can call me `Kip`! I do a "little" bit of `Python`. A little. Maybe a overstatement.. I'm doing stuff like:
 - Creating stuff. Of course
@@ -8,11 +8,10 @@ Hi there! You can call me `Kip`! I do a "little" bit of `Python`. A little. Mayb
 - Reverse engineering applications, which is again, more of a side thing.
 - Modding games!
 
-Sometimes, projects I make are just for myself and I don't have the time or meaning to get it on GitHub. But most projects I make are for actual use, like check out [Kiphub!](https://github.com/frizzy-cmd/KiphubISOs) Don't let the name fool you. Just check it out.
-
+Sometimes, projects I make are just for myself and I don't have the time or meaning to get it on GitHub. But most projects I make are for actual use.
 But anyway, that's all I can say about myself on a technical aspect! I know some Assembly btw.
 
-- Please visit my [site](https://kip.teaa.workers.dev/) [or homepage] for more projects that I won't put on GitHub!
+- **Please** visit my [site](https://kip.teaa.workers.dev/) [or homepage] for more projects that I won't put on GitHub! (psst.. ToS..)
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=frizzy-cmd&color=blueviolet&style=flat-square)
 
