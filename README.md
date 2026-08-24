@@ -1,6 +1,6 @@
 # <img width="48" height="48" align="center" src="https://cdn.discordapp.com/emojis/1530595687933149368.webp?size=96?size=32"> Hey there!
 
-Hi there! You can call me `Kip`! I do a "little" bit of `Python`. A little. Maybe a overstatement.. I'm doing stuff like:
+Hi there! You can call me `Reg/Region`! I do a "little" bit of `Python`. A little. Maybe a overstatement.. I'm doing stuff like:
 - Creating stuff. Of course
 - Trying out Game Development, although that's more of a side thing.
 - Making Discord bots
