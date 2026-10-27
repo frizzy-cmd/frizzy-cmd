@@ -4,6 +4,8 @@
 
 I'm Nightregion. You can call me `Region (or preferably Ace)`!
 _I make stuff :)_
+<br><br>
+Although, I don't really make stuff on here, since I have no idea what to make & I mainly focus on web development, but I have some stuff too, in my pinned repos!
 
 - Creating stuff
 - **Trying out Game Development**, although that's more of a side thing.
