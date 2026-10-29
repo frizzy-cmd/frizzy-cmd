@@ -5,6 +5,10 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=frizzy-cmd&color=blueviolet&style=flat-square)
 
+![Windows](https://img.shields.io/badge/OS-Windows_11_IoT_LTSC-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Debian](https://img.shields.io/badge/OS-Debian_13-A81D33?style=flat-square&logo=debian&logoColor=white)
+![VS code](https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
 I'm Nightregion. You can call me `Region (or preferably Ace)`!
 <br>
 _I make stuff & things :)_
@@ -13,7 +17,7 @@ Although, I don't really make stuff on here, since I have no idea what to make &
 
 This is **what I'm doing** or is **interested in**, at the moment.
 
-- Creating stuff
+- **Creating stuff**
 - **Trying out Game Development**, although that's more of a side thing.
 - **Making Discord bots**
 - **Making sites!**
@@ -25,7 +29,13 @@ Sometimes, projects I make are just for myself and I don't have the time or mean
 But anyway, that's all I can say about myself on a technical aspect!
 
 - ***Please*** visit my [site](https://nightregion.teaa.workers.dev/) [or homepage] for more projects that I won't put on GitHub! (psst.. ToS..)
-- I currently use **Windows 11 IoT Enterprise LTSC** at the moment on my local machine, and **Debian 13** on my Dell Latitude 7390, although, I  have used countless of distributions on my local machine, such as _Debian 13_, _Fedora_, _openSUSE_, and _others_.
+
+## Discord & Current Status
+<p align="center">
+  <a href="https://discord.com/users/946316462182789130">
+    <img src="https://lanyard.cnrad.dev/api/946316462182789130?theme=dark&bg_color=282c34&hideDiscrim=true" alt="discord" />
+  </a>
+</p>
 
 ## Developer Stack
 
@@ -49,5 +59,5 @@ But anyway, that's all I can say about myself on a technical aspect!
 <p align="center">
   <img src="https://github-activity-chart.vercel.app/graph?username=frizzy-cmd&theme=one-dark&bg_color=282c34&hide_border=true" alt="frizzy-cmd's github activity graph" />
   <br /><br />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=frizzy-cmd&theme=one-dark&layout=compact&size_weight=1&count_weight=0" alt="Most used languages" title="Most used languages throughout my repos" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=frizzy-cmd&theme=dark&layout=compact&size_weight=1&count_weight=0" alt="Most used languages" />
 </p>
