@@ -1,7 +1,6 @@
 # <img width="48" height="48" align="center" src="https://cdn.discordapp.com/emojis/1240055805772955779.webp?size=96"> Hey there!
 
-<img src="https://cdn.discordapp.com/attachments/1185054955946647602/1564459212816388126/download-Photoroom.png?ex=6ae157ae&is=6ae0062e&hm=d9bd40fd114137c2bda04b8f2e5a99cec41e599eaada68b00d8bd4d3c97fd97c&" align="right" width="250" />
-<!-- tem :3 -->
+<img src="./tem.png" align="right" width="250" />
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=frizzy-cmd&color=blueviolet&style=flat-square)
 
