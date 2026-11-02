@@ -60,3 +60,12 @@ _But anyways, That's what I can say about myself on a technical aspect!_
   <br /><br />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=frizzy-cmd&theme=dark&layout=compact&size_weight=1&count_weight=0" alt="Most used languages" />
 </p>
+
+## Sites I own
+| Site | Description | Status | Stack |
+| :--- | :--- | :---: | :---: |
+| [**Nightregion**](https://nightregion.teaa.workers.dev/) | Personal homepage that hosts projects & stuff | `Online` | Static & dynamic workers |
+| [**SaveDeltarune**](https://savedeltarune.teaa.workers.dev/) | Media archive of some 'problematic' whatnot videos on DELTARUNE (game) | `Online` | Static & dynamic workers |
+| [**Lookup**](https://lookup.teaa.workers.dev) | Look stuff up i guess | `Online` | Static & dynamic workers |
+| [**eTem**](https://etem.pages.dev) | eMudhra lol | `Online` | Static pages |
+| **OneShotWebRemake** | Remaking OneShot in TypeScript (like the core mechanics) | `Development` |  |
