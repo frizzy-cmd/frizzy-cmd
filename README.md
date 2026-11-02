@@ -1,6 +1,6 @@
-# <img width="48" height="48" align="center" src="https://cdn.discordapp.com/emojis/1240055805772955779.webp?size=96"> Hey there!
+# <img width="48" height="48" align="center" src="https://cdn.discordapp.com/emojis/1240055805772955779.webp?size=96"> Hiya there!!
 
-<img src="./tem.png" align="right" width="250" />
+<img src="./tem.png" align="right" width="300" />
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=frizzy-cmd&color=blueviolet&style=flat-square)
 
@@ -8,26 +8,27 @@
 ![Debian](https://img.shields.io/badge/OS-Debian_13-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![VS code](https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-I'm Nightregion. You can call me `Region (or preferably Ace)`!
+**I'm Nightregion. You can call me** `Region (or preferably Ace)`!
 <br>
 _I make stuff & things :)_
-<br><br>
-Although, I don't really make stuff on here, since I have no idea what to make & **I mainly focus on _web development_**, but I have some stuff too, in my pinned repos! (or just my repositories list in general)
+<br>
+<br>
 
-This is **what I'm doing** or is **interested in**, at the moment.
-
-- **Creating stuff**
-- **Trying out Game Development**, although that's more of a side thing.
-- **Making Discord bots**
-- **Making sites!**
-- **Reverse engineering applications**, which is again, more of a side thing.
-- **Modding games!** if I'm not lazy
-- **Web development!** If I'm not lazy, like I said above. <sub><sup>...not really of a web designer though!</sup></sub>
-
-Sometimes, projects I make are just for myself and I don't have the time or meaning to get it on GitHub. But most projects I make are for actual use.
-But anyway, that's all I can say about myself on a technical aspect!
+## <img width="48" height="48" align="center" src="https://cdn.discordapp.com/emojis/836289639735492691.webp?size=96"> What am I up to?
+- **Web development:** I like making websites. It's usually my main thing, It's compatible with everything and only needs a browser! (usually) I host them on Cloudflare Workers/Pages, I rarely use databases unless i'm making something big, so that's that.
+- **Gane development & Game modding:** Tinkering with Luau, C++, C, and sometimes with game engines too! You can *probably* know me by me creating **Calamus Toolkit**, it's a mod menu sorta thing for OneShot, more details [here](https://nightregion.teaa.workers.dev/calamus-toolkit)!
+- **Systems & Reverse-engineering:** I also make stuff! (with real code! and not just web development..) Hot take, but usually **Python is my go-to** as its good for testing small stuff, but **for bigger scale projects**, or **projects that can't go with Python**, I'd go with _Rust_, _C++_ or _C_ (based on the project)
+<br>
 
 - ***Please*** visit my [site](https://nightregion.teaa.workers.dev/) [or homepage] for more projects that I won't put on GitHub! (psst.. ToS..)
+  
+</br>
+
+Although, I don't really make stuff on here, since I have no idea what to make & **I mainly focus on _web development_**, but I have some stuff too, in my pinned repos! (or just my repositories list in general)
+<br>
+
+_But anyways, That's what I can say about myself on a technical aspect!_
+<br><br>
 
 ## Discord & Current Status
 <p align="center">
@@ -36,22 +37,21 @@ But anyway, that's all I can say about myself on a technical aspect!
   </a>
 </p>
 
-## Developer Stack
+## Developer Stack 
+<p align="left"> 
+  <a href="https://skillicons.dev"> 
+    <img src="https://skillicons.dev/icons?i=py,lua,ruby,rust,cpp,c,cs,dotnet,html,css,js" alt="icon" title="Languages and etc" /> 
+  </a> 
+</p> 
+<!-- i fucking hate dotnet for balls but we ball --> 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,lua,ruby,rust,cpp,c,cs,dotnet,html,css,js" alt="icon" title="Languages and etc" />
-  </a>
-</p>
-
-<!-- i fucking hate dotnet for balls but we ball -->
-
-## Tech Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,debian,git,vscode,sublime,discord,bots,robloxstudio,github,supabase,cloudflare,workers," alt="ticon" title="Tech and etc" />
-  </a>
-</p>
+<div align="right">
+  
+## Tech Stack 
+<a href="https://skillicons.dev"> 
+  <img src="https://skillicons.dev/icons?i=windows,linux,debian,git,vscode,sublime,discord,bots,robloxstudio,github,supabase,cloudflare,workers," alt="ticon" title="Tech and etc" /> 
+</a>
+</div>
 
 ## Statistics
 
