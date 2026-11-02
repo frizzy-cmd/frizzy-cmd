@@ -1,6 +1,6 @@
 # <img width="48" height="48" align="center" src="https://cdn.discordapp.com/emojis/1240055805772955779.webp?size=96"> Hiya there!!
 
-<img src="./tem.png" align="right" width="300" />
+<img src="./tem.png" align="right" width="300" />:
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=frizzy-cmd&color=blueviolet&style=flat-square)
 
