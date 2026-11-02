@@ -66,6 +66,6 @@ _But anyways, That's what I can say about myself on a technical aspect!_
 | :--- | :--- | :---: | :---: |
 | [**Nightregion**](https://nightregion.teaa.workers.dev/) | Personal homepage that hosts projects & stuff | `Online` | Static & dynamic workers |
 | [**SaveDeltarune**](https://savedeltarune.teaa.workers.dev/) | Media archive of some 'problematic' whatnot videos on DELTARUNE (game) | `Online` | Static & dynamic workers |
-| [**Lookup**](https://lookup.teaa.workers.dev) | Look stuff up i guess | `Online` | Static & dynamic workers |
+| [**Lookup**](https://lookup.teaa.workers.dev) | Look stuff up i guess (May not work?) | `Unstable` | Static & dynamic workers |
 | [**eTem**](https://etem.pages.dev) | eMudhra lol | `Online` | Static pages |
 | **OneShotWebRemake** | Remaking OneShot in TypeScript (like the core mechanics) | `Development` |  |
