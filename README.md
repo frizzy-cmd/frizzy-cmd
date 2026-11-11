@@ -8,7 +8,7 @@
 ![Debian](https://img.shields.io/badge/OS-Debian_13-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![VS code](https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-**I'm Nightregion. You can call me** `Region (or preferably Ace)`!
+**I'm Maylan. You can call me** `May (or preferrably Ace)`!
 <br>
 _I make stuff & things :)_
 <br>
@@ -64,9 +64,8 @@ _But anyways, That's what I can say about myself on a technical aspect!_
 ## Sites I own
 | Site | Description | Status | Stack |
 | :--- | :--- | :---: | :---: |
-| [**Nightregion**](https://nightregion.teaa.workers.dev/) | Personal homepage that hosts projects & stuff | `Online` | Static & dynamic workers |
+| [**Maylan**](https://maylan.teaa.workers.dev/) | Personal homepage that hosts projects & stuff | `Online` | Static & dynamic workers |
 | [**SaveDeltarune**](https://savedeltarune.teaa.workers.dev/) | Media archive of some 'problematic' whatnot videos on DELTARUNE (game) | `Online` | Static & dynamic workers |
-| [**Lookup**](https://lookup.teaa.workers.dev) | Look stuff up i guess (May not work?) | `Unstable` | Static & dynamic workers |
 | [**eTem**](https://etem.pages.dev) | eMudhra lol | `Online` | Static pages |
 | [**OneApple**](https://oneapple.pages.dev) | Bad Apple!! but OneShot spritefaces | `Online` | Static pages |
 | **OneShotWebRemake** | Remaking OneShot in TypeScript (like the core mechanics) | `Development` |  |
