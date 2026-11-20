@@ -69,4 +69,5 @@ _But anyways, That's what I can say about myself on a technical aspect!_
 | [**pfp**](https://pfp.teaa.workers.dev) | A cdn sorta-thing, this site is used when i use my pfp in sites | `Online` | Worker only |
 | [**eTem**](https://etem.pages.dev) | eMudhra lol | `Online` | Static pages |
 | [**OneApple**](https://oneapple.pages.dev) | Bad Apple!! but OneShot spritefaces | `Online` | Static pages |
+| [**8may**](https://8may.pages.dev/) | A imageboard (kinda). You can post images, and text! Post anything here! | `Online` | Dynamic pages |
 | **OneShotWebRemake** | Remaking OneShot in TypeScript (like the core mechanics) | `Development` |  |
