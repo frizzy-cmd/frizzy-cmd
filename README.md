@@ -1,4 +1,4 @@
-<img width="233" height="53" alt="image" src="https://github.com/user-attachments/assets/a3819b02-109f-471f-8571-c27de269e321" /># <img width="48" height="48" align="center" src="https://cdn.discordapp.com/emojis/1240055805772955779.webp?size=96"> Hey there!
+<img width="48" height="48" align="center" src="https://cdn.discordapp.com/emojis/1240055805772955779.webp?size=96"> Hey there!
 
 <img src="./rei.png" align="right" width="300" />
 
