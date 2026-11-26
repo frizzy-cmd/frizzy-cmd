@@ -64,7 +64,7 @@ _But anyways, That's what I can say about myself on a technical aspect!_
 ## Sites I own
 | Site | Description | Status | Stack |
 | :--- | :--- | :---: | :---: |
-| [**Maylan**](https://maylan.dpdns.org/) | Personal homepage that hosts projects & stuff | `Online` | Static & dynamic workers |
+| [**Maylan**](https://maylan.teaa.workers.dev/) | Personal homepage that hosts projects & stuff | `Online` | Static & dynamic workers |
 | [**SaveDeltarune**](https://savedeltarune.teaa.workers.dev/) | Media archive of some 'problematic' whatnot videos on DELTARUNE (game) | `Online` | Static & dynamic workers |
 | [**pfp**](https://pfp.teaa.workers.dev) | A cdn sorta-thing, this site is used when i use my pfp in sites | `Online` | Worker only |
 | [**OneApple**](https://oneapple.pages.dev) | Bad Apple!! but OneShot spritefaces | `Online` | Static pages |
