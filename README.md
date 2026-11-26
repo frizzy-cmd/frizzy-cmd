@@ -1,4 +1,4 @@
-# <img width="48" height="48" align="center" src="https://cdn.discordapp.com/emojis/1240055805772955779.webp?size=96"> Hey there!
+<img width="233" height="53" alt="image" src="https://github.com/user-attachments/assets/a3819b02-109f-471f-8571-c27de269e321" /># <img width="48" height="48" align="center" src="https://cdn.discordapp.com/emojis/1240055805772955779.webp?size=96"> Hey there!
 
 <img src="./rei.png" align="right" width="300" />
 
@@ -64,7 +64,7 @@ _But anyways, That's what I can say about myself on a technical aspect!_
 ## Sites I own
 | Site | Description | Status | Stack |
 | :--- | :--- | :---: | :---: |
-| [**Maylan**](https://maylan.teaa.workers.dev/) | Personal homepage that hosts projects & stuff | `Online` | Static & dynamic workers |
+| [**Maylan**](https://maylan.dpdns.org/) | Personal homepage that hosts projects & stuff | `Online` | Static & dynamic workers |
 | [**SaveDeltarune**](https://savedeltarune.teaa.workers.dev/) | Media archive of some 'problematic' whatnot videos on DELTARUNE (game) | `Online` | Static & dynamic workers |
 | [**pfp**](https://pfp.teaa.workers.dev) | A cdn sorta-thing, this site is used when i use my pfp in sites | `Online` | Worker only |
 | [**OneApple**](https://oneapple.pages.dev) | Bad Apple!! but OneShot spritefaces | `Online` | Static pages |
